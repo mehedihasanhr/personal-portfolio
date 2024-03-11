@@ -77,7 +77,7 @@ export default function Home(): React.ReactNode {
 
           <div className="flex items-center space-x-1.5 sm:flex-col sm:space-x-0 sm:space-y-1.5 sm:self-center">
             <Link
-              href=""
+              href="https://www.linkedin.com/in/mehedihasan-hr/"
               className="flex w-28 items-center space-x-1.5 rounded-sm border-zinc-200 bg-sky-600 px-3 py-2 text-sm text-white hover:bg-sky-500"
             >
               <svg
@@ -102,7 +102,7 @@ export default function Home(): React.ReactNode {
               <span>Linkedin</span>
             </Link>
             <Link
-              href=""
+              href="https://github.com/mehedihasanhr"
               className="flex w-28 items-center space-x-1.5 rounded-sm border-zinc-200 bg-black/80 px-3 py-2 text-sm text-white hover:bg-black/70 [&:svg]:h-4 [&:svg]:w-4 [&:svg]:stroke-white"
             >
               <svg

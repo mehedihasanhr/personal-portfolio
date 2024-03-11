@@ -329,7 +329,7 @@ export default function Home(): React.ReactNode {
           </div>
         </div>
 
-        <div className="mt-10 flex w-full items-center justify-between border-t border-zinc-200 py-4">
+        <div className="mt-10 flex w-full flex-wrap items-center justify-between gap-2.5 border-t border-zinc-200 py-4">
           <span className="text-sm text-zinc-500">
             @2024{" "}
             <Link

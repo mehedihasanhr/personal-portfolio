@@ -232,13 +232,13 @@ export default function Home(): React.ReactNode {
                 </li>
 
                 <li>
-                  Workedonvariousmodules including the Incentive page, Point
+                  Worked on various modules including the Incentive page, Point
                   distribution page, Insights and Goal page and Time log report
                 </li>
 
                 <li>
-                  CreatedaTaskHandling Page with functionalities such as a Time
-                  Tracker, Revision, report Generation.
+                  Created a Task Handling Page with functionalities such as a
+                  Time Tracker, Revision, report Generation.
                 </li>
 
                 <li>
@@ -248,8 +248,8 @@ export default function Home(): React.ReactNode {
                 </li>
 
                 <li>
-                  Stayedupdatedwith industry trends and best practices in React
-                  JS and frontend Development
+                  Stayed updated with industry trends and best practices in
+                  React JS and frontend Development
                 </li>
               </ul>
             </li>

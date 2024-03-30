@@ -178,33 +178,6 @@ export default function Home(): React.ReactNode {
               <span className="block text-sm font-medium text-black">
                 Mar 2023 - Jan 2024
               </span>
-              <ul className="ml-10 mt-4 list-disc text-sm">
-                <li>
-                  Collaborated with A Laravel team at SEOPage1 to develop user
-                  interfaces for an ERP system software using React JS.
-                </li>
-
-                <li>
-                  Workedonvariousmodules including the Incentive page, Point
-                  distribution page, Insights and Goal page and Time log report
-                </li>
-
-                <li>
-                  CreatedaTaskHandling Page with functionalities such as a Time
-                  Tracker, Revision, report Generation.
-                </li>
-
-                <li>
-                  Actively participated in agile development processes,
-                  including daily stand-up meetings, sprint planning, and
-                  retrospectives.
-                </li>
-
-                <li>
-                  Stayedupdatedwith industry trends and best practices in React
-                  JS and frontend Development
-                </li>
-              </ul>
             </li>
 
             <li className="mt-4">
@@ -225,33 +198,6 @@ export default function Home(): React.ReactNode {
               <span className="block text-sm font-medium text-black">
                 Aug 2023 - Jan 2024
               </span>
-              <ul className="ml-10 mt-4 list-disc text-sm">
-                <li>
-                  Collaborated with A Laravel team at SEOPage1 to develop user
-                  interfaces for an ERP system software using React JS.
-                </li>
-
-                <li>
-                  Worked on various modules including the Incentive page, Point
-                  distribution page, Insights and Goal page and Time log report
-                </li>
-
-                <li>
-                  Created a Task Handling Page with functionalities such as a
-                  Time Tracker, Revision, report Generation.
-                </li>
-
-                <li>
-                  Actively participated in agile development processes,
-                  including daily stand-up meetings, sprint planning, and
-                  retrospectives.
-                </li>
-
-                <li>
-                  Stayed updated with industry trends and best practices in
-                  React JS and frontend Development
-                </li>
-              </ul>
             </li>
           </ul>
         </div>
